@@ -1,12 +1,14 @@
 # Syllabus: Full Stack DevSecOps & Cloud DevOps Bootcamp [Batch-4]
 
+### Enrolment Link: https://www.devopsshack.com/courses/DevSecOps--Cloud-DevOps--Batch-4--From-Scratch-65c79f62e4b0de0d089fb289
+
 **General Information:**
 - **Weekends**: Live sessions from 8 PM - 10 PM IST
 - **Weekdays**: Custom recorded videos
 - **Wednesdays**: Interview preparation sessions
 - **1:1 Connects**: Available when needed
 - **Doubt Clearance**: 1:1 sessions
-- **Projects**: 10 full-stack projects with hands-on database implementation in different programming languages
+- **Projects**: 10+ full-stack projects with hands-on database implementation in different programming languages
 - **Corporate Projects**: Understanding with architecture (useful for interviews)
 - **Assignments**: Weekly assignments
 
