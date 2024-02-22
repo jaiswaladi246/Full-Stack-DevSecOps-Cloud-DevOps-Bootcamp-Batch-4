@@ -1,4 +1,4 @@
-# Syllabus: Full Stack DevSecOps & Cloud DevOps Bootcamp [Batch-4]
+# Full Stack DevSecOps & Cloud DevOps Bootcamp [Batch-4]
 
 ### Enrolment Link: https://www.devopsshack.com/courses/DevSecOps--Cloud-DevOps--Batch-4--From-Scratch-65c79f62e4b0de0d089fb289
 
