@@ -4,10 +4,7 @@
 
 **General Information:**
 - **Weekends**: Live sessions from 8 PM - 10 PM IST
-- **Weekdays**: Custom recorded videos
-- **Wednesdays**: Interview preparation sessions
-- **1:1 Connects**: Available when needed
-- **Doubt Clearance**: 1:1 sessions
+- **Weekdays**: Custom recorded video
 - **Projects**: 10+ full-stack projects with hands-on database implementation in different programming languages
 - **Corporate Projects**: Understanding with architecture (useful for interviews)
 - **Assignments**: Weekly assignments
